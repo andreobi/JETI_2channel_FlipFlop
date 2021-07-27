@@ -1,4 +1,9 @@
 # JETI_2channel_FlipFlop
+
+The SW is provided as it is without any resposibility, warranty or laibility.
+
+It is recommended to use the original logic functions to control any critical rc functions! 
+
 Lua App for Jeti RC. 
 This App provides two independent selectable output controls (FD0..9).
 
