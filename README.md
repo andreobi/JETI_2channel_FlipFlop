@@ -11,6 +11,7 @@ The following logic is implemented:
 - two inputs could be combiened with an OR or an AND operation
 
 Application examples
+
 Simple delay:
 - SET is always TRUE (log.MAX)
 - CLEAR is the signal
